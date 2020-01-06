@@ -1,0 +1,12 @@
+C:\Users\Aaron\source\repos\skipper\skipper\bin\Debug\skipper.exe.config
+C:\Users\Aaron\source\repos\skipper\skipper\bin\Debug\skipper.exe
+C:\Users\Aaron\source\repos\skipper\skipper\bin\Debug\skipper.pdb
+C:\Users\Aaron\source\repos\skipper\skipper\bin\Debug\skipper.xml
+C:\Users\Aaron\source\repos\skipper\skipper\obj\Debug\skipper.vbprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\skipper\skipper\obj\Debug\skipper.Form1.resources
+C:\Users\Aaron\source\repos\skipper\skipper\obj\Debug\skipper.Resources.resources
+C:\Users\Aaron\source\repos\skipper\skipper\obj\Debug\skipper.vbproj.GenerateResource.cache
+C:\Users\Aaron\source\repos\skipper\skipper\obj\Debug\skipper.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\skipper\skipper\obj\Debug\skipper.exe
+C:\Users\Aaron\source\repos\skipper\skipper\obj\Debug\skipper.xml
+C:\Users\Aaron\source\repos\skipper\skipper\obj\Debug\skipper.pdb
